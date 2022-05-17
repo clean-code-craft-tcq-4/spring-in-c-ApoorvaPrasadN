@@ -10,6 +10,6 @@ extern int ledAlertCallCount;
 struct Stats
 {
  float average;
- int minimum;
- int maximum; 
+ int min;
+ int max; 
 };
